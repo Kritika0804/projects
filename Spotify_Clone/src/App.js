@@ -6,13 +6,16 @@ import { Rightmenu } from './Components/Rightmenu';
 
 function App() {
   return (
-   <>
+   <div className='App'>
    <Leftmenu/>
    <Main/>
    <Rightmenu/>
-   <div className='background'></div>
+   <div className='background'>
+      
+
+   </div>
    
-   </>
+   </div>
   );
 }
 

@@ -1,9 +1,10 @@
 import React from 'react'
+import '../Style/Rightmenu.css'
 
 function Rightmenu() {
   return (
-    <div>
-      
+    <div className='rightMenu'>
+    
     </div>
   )
 }
